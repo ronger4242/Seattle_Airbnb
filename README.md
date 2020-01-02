@@ -6,7 +6,7 @@
 1. [File Descriptions](#files)
 1. [Results](#results)
 1. [Licensing, Authors, Acknowledgements](#Licensing)
-
+1. [Medium Post Link](#Medium)
 ## Installation
 There should be no necessary libraries to run the code here beyond the Anaconda distribution of Python. The code should run with no issues using Python versions 3.*.
 ## Project Motivation
@@ -21,3 +21,5 @@ There is one Jupyter notebook available here to showcase work related to the abo
 The main findings of the code can be found at the post available here.
 ## Licensing, Authors, Acknowledgements
 Credits must be given to Airbnb and Udacity for the data. The licensing for the data and other descriptive information can be found at the Kaggle link available here.  Otherwise, feel free to use the code here as you would like. 
+## Medium Post Link
+The medium post can be found here: https://medium.com/@nancyzhao_75501/your-next-investment-airbnb-seattle-767d67c48cdb
